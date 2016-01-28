@@ -88,6 +88,7 @@ component {
               directory="#packageDirectory#"
               name="qDirectoryListing"
               recurse="true"
+              filter="*.cfc"
               type="file";
 
     each(qDirectoryListing, function(file) {
