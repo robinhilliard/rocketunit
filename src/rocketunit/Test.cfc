@@ -91,7 +91,7 @@ component {
               type="file";
 
     each(qDirectoryListing, function(file) {
-      if (not listContainsNoCase("Application.cfc,Test.cfc", file.name)) {
+      if (not listContainsNoCase("Application.cfc,Test.cfc,.DS_Store", file.name)) {
         componentName = testPackage
                         & replace(mid(file.directory,
                             packageStartOffset, BIG_NUM), "/", ".")
