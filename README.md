@@ -3,16 +3,15 @@ RocketUnit is the smallest, easiest and most approachable unit testing framework
 
 > Just wanted to drop you guys a line and say Thank You!!! for creating RocketUnit. I'm using it as the testing framework for CFWheels and I have to say that it's the easiest testing framework I've ever used. Excellent work! - Tony Petruzzi
 
-<br/>
 > RocketUnit is absolutely sweet; thx for publishing it, Robin. Compared with both CFUnit and CFCUnit it's a no brainer to setup, it's much simpler to use and still delivers the same (over even better) information. Even people who never have worked with unit testing before can actually get it pretty much straight away - Kai Koenig
 
-<br/>
+
 > I'd just like to publicly thank RocketUnit for finding this for me the moment we upgraded our dev server here. I encourage everyone who isn't actively unit testing to have a look at RocketUnit or any other unit testing framework as they will saves you a lot of heartache. It takes about 5 minutes to get your first test running, and after that you'll be streets ahead - Phil Haeusler
 
-<br/>
+
 > I have to confess, I have been using RocketUnit for a while now and it is just perfect! So nice and simple and easy to use, we even have developers using it for unit testing some of our C# webservices!! (ok ok, maybe that is just me) - Lucas Sherwood
 
-<br/>
+
 
 Release 2.0 comes with the following new features, all packed into a 700 line component:
 
